@@ -1,3 +1,6 @@
 [submodule "MethodsLibraryPleEvaluation"]
 	path = MethodsLibraryPleEvaluation
 	url = https://github.com/schuemie/MethodsLibraryPleEvaluation.git
+[submodule "TicagrelorVsClopidogrel"]
+	path = TicagrelorVsClopidogrel
+	url = https://github.com/chandryou/TicagrelorVsClopidogrel.git
