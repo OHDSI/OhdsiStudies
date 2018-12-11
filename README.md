@@ -28,6 +28,7 @@ Adding and updating studies
 	
 	```git
 	git submodule add https://github.com/schuemie/MethodsLibraryPleEvaluation.git MethodsLibraryPleEvaluation
+	git commit -a -m "Adding submodule"
 	git push
 	```
 	
