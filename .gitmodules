@@ -4,3 +4,6 @@
 [submodule "TicagrelorVsClopidogrel"]
 	path = TicagrelorVsClopidogrel
 	url = https://github.com/chandryou/TicagrelorVsClopidogrel.git
+[submodule "FebuxostatVsAllopurinolCVD"]
+	path = FebuxostatVsAllopurinolCVD
+	url = https://github.com/chandryou/FebuxostatVsAllopurinolCVD.git
