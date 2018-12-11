@@ -66,6 +66,6 @@ Go to the root folder, add the new changes, and push to OhdsiStudies:
 ```git
 cd ..
 git add MethodsLibraryPleEvaluation
-git commit -a
+git commit -a -m "Updating submodule"
 git push
 ```
