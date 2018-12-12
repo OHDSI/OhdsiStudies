@@ -13,3 +13,6 @@
 [submodule "DataQuality"]
 	path = DataQuality
 	url = https://github.com/vojtechhuser/DataQuality.git
+[submodule "ThemisConcepts"]
+	path = ThemisConcepts
+	url = https://github.com/vojtechhuser/ThemisConcepts
