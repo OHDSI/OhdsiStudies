@@ -10,3 +10,6 @@
 [submodule "EndometriosisCharacterization"]
 	path = EndometriosisCharacterization
 	url = https://github.com/molliemckillop/Endometriosis-Phenotype-Characterization.git
+[submodule "DataQuality"]
+	path = DataQuality
+	url = https://github.com/vojtechhuser/DataQuality.git
