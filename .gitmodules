@@ -7,3 +7,6 @@
 [submodule "FebuxostatVsAllopurinolCVD"]
 	path = FebuxostatVsAllopurinolCVD
 	url = https://github.com/chandryou/FebuxostatVsAllopurinolCVD.git
+[submodule "EndometriosisCharacterization"]
+	path = EndometriosisCharacterization
+	url = https://github.com/molliemckillop/Endometriosis-Phenotype-Characterization.git
