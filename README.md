@@ -36,11 +36,10 @@ Adding and updating studies
 
 Note that submodules create a snapshot of the study repository. OhdsiStudies will point to the commit at the time the submodule was added, future changes in the source repository are not automatically visible in OhdsiStudies. Whenever the source study package is updated, we may want to update the submodule in OhdsiStudies. Here's how:
 
-First initialize the submodules. Before initialization, the submodules will just be pointers to the source repositories:
+First initialize your submodule. Before initialization, the submodules will just be pointers to the source repositories:
 
 ```git
-git submodule init
-git submodule update
+git submodule update --init -- MethodsLibraryPleEvaluation
 ```
 
 Change into the submodule directory:
@@ -49,7 +48,7 @@ Change into the submodule directory:
 cd MethodsLibraryPleEvaluation
 ```
 
-Switch to the source repository master branch:
+Switch to the source repository master branch if needed:
 
 ```git
 git checkout master
@@ -66,6 +65,6 @@ Go to the root folder, add the new changes, and push to OhdsiStudies:
 ```git
 cd ..
 git add MethodsLibraryPleEvaluation
-git commit -a -m "Updating submodule"
+git commit -a -m "Updating MethodsLibraryPleEvaluation submodule"
 git push
 ```
