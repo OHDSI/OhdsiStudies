@@ -16,3 +16,6 @@
 [submodule "ThemisConcepts"]
 	path = ThemisConcepts
 	url = https://github.com/vojtechhuser/ThemisConcepts
+[submodule "MetforminVsSulfonylurea"]
+	path = MetforminVsSulfonylurea
+	url = https://github.com/ABMI/MetforminVsSulfonylurea.git
