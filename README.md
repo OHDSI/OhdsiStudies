@@ -1,7 +1,8 @@
 OHDSI Studies
 =============
 
-This repository contains OHDSI study packages. Each folder contains a package that executes one of the OHDSI studies.
+**Important**: This repo was an attempt at organizing OHDSI study packages that wasn't very succesful. Please use the [ohdsi-studies organization](https://github.com/ohdsi-studies) for sharing OHDSI study packages.
+
 
 Running a study
 ===============
